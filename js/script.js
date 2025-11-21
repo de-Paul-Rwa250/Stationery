@@ -43,13 +43,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="product-info">
                     <div class="product-name">${product.name}</div>
                     <div class="prices">
-                        <div class="price-container kigali-price-container">
-                            <div class="location-label">Kigali</div>
-                            <div class="price">${product.prices.kigali}</div>
+                        <div class="price-container Kigali_Muhanga-price-container">
+                            <div class="location-label">Kigali_Muhanga</div>
+                            <div class="price">${product.prices.Kigali_Muhanga}</div>
                         </div>
-                        <div class="price-container muhanga-price-container">
-                            <div class="location-label">Muhanga</div>
-                            <div class="price">${product.prices.muhanga}</div>
+                        <div class="price-container Elsewhere-price-container">
+                            <div class="location-label">Elsewhere</div>
+                            <div class="price">${product.prices.Elsewhere}</div>
                         </div>
                     </div>
                 </div>
