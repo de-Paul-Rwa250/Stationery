@@ -66,7 +66,7 @@ const products = [
     },
     {
         id: "P006",
-        name: "iPhone 14 Pro Max 256GB",
+        name: "iPhone 13 Pro Max 256GB",
         images: [
             "images/P006/image1.jpg",
             "images/P006/image2.jpg"
@@ -101,5 +101,5 @@ const products = [
             kigali: "153,000 RF",
             muhanga: "173,400 RF"
         }
-    },
+    }
 ];
