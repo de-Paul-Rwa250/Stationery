@@ -101,5 +101,19 @@ const products = [
             kigali: "153,000 RF",
             muhanga: "173,400 RF"
         }
+    },
+    {
+        id: "P009",
+        name: "Romantic Table Lamp/Bedside Lamp",
+        images: [
+            "images/P008/Mushoom.jpg"
+            "images/P008/Emily.jpg"
+            "images/P008/images.jpg"
+        ],
+        thumbnail: "images/P009/Emily.jpg",
+        prices: {
+            "kigali and Muhanga": "5,000 RF",
+            Else: "55,000 RF"
+        }
     }
 ];
