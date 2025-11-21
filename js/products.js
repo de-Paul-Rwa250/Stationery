@@ -66,7 +66,7 @@ const products = [
     },
     {
         id: "P006",
-        name: "iPhone 13 Pro Max 256GB",
+        name: "iPhone 14 Pro Max 256GB",
         images: [
             "images/P006/image1.jpg",
             "images/P006/image2.jpg"
