@@ -106,9 +106,9 @@ const products = [
         id: "P009",
         name: "Romantic Table Lamp/Bedside Lamp",
         images: [
-            "images/P008/Mushoom.jpg"
-            "images/P008/Emily.jpg"
-            "images/P008/images.jpg"
+            "images/P009/Mushoom.jpg"
+            "images/P009/Emily.jpg"
+            "images/P009/images.jpg"
         ],
         thumbnail: "images/P009/Emily.jpg",
         prices: {
