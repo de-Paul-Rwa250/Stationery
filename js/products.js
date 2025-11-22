@@ -92,7 +92,7 @@ const products = [
     },
     {
         id: "P008",
-        name: "Fitbit Charge 5 Fitness Tracker",
+        name: "Dell 24 inch all in one computer EC 24250",
         images: [
             "images/P008/image1.jpg"
         ],
