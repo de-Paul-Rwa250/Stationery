@@ -92,18 +92,14 @@ const products = [
     },
     {
         id: "P008",
-        name: "Dell 24-inch all-in-one computer EC-24250",
+        name: "Fitbit Charge 5 Fitness Tracker",
         images: [
             "images/P008/image1.jpg"
-            "images/P008/image2.jpg"
-            "images/P008/image3.jpg"
-            "images/P008/iimage4.jpg"
-            "images/P008/image5.jpg"
         ],
         thumbnail: "images/P008/image1.jpg",
         prices: {
-            kigali: "1,499,000 RF",
-            muhanga: "1,599,000 RF"
+            kigali: "153,000 RF",
+            muhanga: "173,400 RF"
         }
     }
 ];
