@@ -28,7 +28,7 @@ const products = [
     },
     {
         id: "P003",
-        name: "JBL Flip 5 Bluetooth Speaker",
+        name: "Wireless Presenter Laser Pointer PPT Remote Control Pen",
         images: [
             "images/P003/image1.jpg",
             "images/P003/image2.jpg"
