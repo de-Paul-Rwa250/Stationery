@@ -108,7 +108,7 @@ const products = [
     },
     {
         id: "P009",
-        name: "Dell 24-inch all-in-one computer EC-24250",
+        name: "Nightstand Desk Lights, Creative Warm White Lamp for Bedroom Decor",
         images: [
             "images/P009/image1.jpg",
             "images/P009/image2.jpg",
