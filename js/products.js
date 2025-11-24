@@ -105,5 +105,21 @@ const products = [
             kigali: "1,500,000 RF",
             muhanga: "1,500,000 RF"
         }
+    },
+    {
+        id: "P008",
+        name: "Dell 24-inch all-in-one computer EC-24250",
+        images: [
+            "images/P008/image1.jpg",
+            "images/P008/image2.jpg",
+            "images/P008/image3.jpg",
+            "images/P008/image4.jpg",
+            "images/P008/image5.jpg"
+        ],
+        thumbnail: "images/P008/image1.jpg",
+        prices: {
+            kigali: "1,500,000 RF",
+            muhanga: "1,500,000 RF"
+        }
     }
 ];
