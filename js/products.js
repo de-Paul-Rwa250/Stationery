@@ -15,15 +15,17 @@ const products = [
     },
     {
         id: "P002",
-        name: "Apple Watch Series 7",
+        name: "SSD (solid state drive ) drives",
         images: [
             "images/P002/image1.jpg",
-            "images/P002/image2.jpg"
+            "images/P002/image2.jpg",
+            "images/P002/image3.jpg",
+            "images/P002/image4.jpg"
         ],
         thumbnail: "images/P002/image1.jpg",
         prices: {
-            kigali: "357,000 RF",
-            muhanga: "387,600 RF"
+            kigali: "100,000 RF-300,000 RF",
+            muhanga: "100,000 RF-300,000 RF"
         }
     },
     {
@@ -54,14 +56,16 @@ const products = [
     },
     {
         id: "P005",
-        name: "Logitech G502 HERO Gaming Mouse",
+        name: "Gaming Combo Pack Kit",
         images: [
+            "images/P005/image1.jpg",
+            "images/P005/image1.jpg",
             "images/P005/image1.jpg"
         ],
         thumbnail: "images/P005/image1.jpg",
         prices: {
-            kigali: "45,900 RF",
-            muhanga: "56,100 RF"
+            kigali: "90,900 RF",
+            muhanga: "92,100 RF"
         }
     },
     {
