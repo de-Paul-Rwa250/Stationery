@@ -59,8 +59,8 @@ const products = [
         name: "Gaming Combo Pack Kit",
         images: [
             "images/P005/image1.jpg",
-            "images/P005/image1.jpg",
-            "images/P005/image1.jpg"
+            "images/P005/image2.jpg",
+            "images/P005/image3.jpg"
         ],
         thumbnail: "images/P005/image1.jpg",
         prices: {
