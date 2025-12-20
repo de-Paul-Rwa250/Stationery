@@ -33,7 +33,9 @@ const products = [
         name: "Wireless Presenter Laser Pointer PPT Remote Control Pen",
         images: [
             "images/P003/image1.jpg",
-            "images/P003/image2.jpg"
+            "images/P003/image2.jpg",
+             "images/P003/image3.jpg",
+             "images/P003/image4.jpg"
         ],
         thumbnail: "images/P003/image1.jpg",
         prices: {
