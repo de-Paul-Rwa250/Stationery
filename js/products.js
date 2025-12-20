@@ -45,12 +45,13 @@ const products = [
     },
     {
         id: "P004",
-        name: "Canon EOS R6 Mirrorless Camera",
+        name: "3D printed bedside lamps",
         images: [
             "images/P004/image1.jpg",
-            "images/P004/image2.jpg"
+            "images/P004/image2.jpg",
+               "images/P004/image2.jpg"
         ],
-        thumbnail: "images/P004/image1.jpg",
+        thumbnail: "images/P004/image2.jpg",
         prices: {
             kigali: "1,224,000 RF",
             muhanga: "1,326,000 RF"
@@ -72,15 +73,16 @@ const products = [
     },
     {
         id: "P006",
-        name: "iPhone 13 Pro Max 256GB",
+        name: "Reusable towels tear away roll cloths",
         images: [
             "images/P006/image1.jpg",
-            "images/P006/image2.jpg"
+            "images/P006/image2.jpg",
+            "images/P006/image3.jpg"
         ],
         thumbnail: "images/P006/image1.jpg",
         prices: {
-            kigali: "816,000 RF",
-            muhanga: "867,000 RF"
+            kigali: "3,500 RF",
+            muhanga: "4,000 RF"
         }
     },
     {
@@ -125,5 +127,18 @@ const products = [
             kigali: "60,000 RF",
             muhanga: "65,000 RF"
         }
-    }
+    },
+     {
+        id: "P010",
+        name: "Handmade Wooden Lamps",
+        images: [
+            "images/P010/image1.jpg",
+            "images/P010/image2.jpg",
+        ],
+        thumbnail: "images/P010/image1.jpg",
+        prices: {
+            kigali: "50,000 RF",
+            muhanga: "55,000 RF"
+        }
+    },
 ];
