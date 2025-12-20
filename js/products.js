@@ -1,7 +1,7 @@
 const products = [
     {
         id: "P001",
-        name: "Sony WH-1000XM4 Wireless Headphones",
+        name: "Small HD plug security camera",
         images: [
             "images/P001/image1.jpg",
             "images/P001/image2.jpg",
